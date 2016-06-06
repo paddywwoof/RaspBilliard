@@ -28,29 +28,29 @@ Usage
 
 At command prompt
 
-$ python3 main.py
+    $ python3 main.py
 
-control keys
+control keys::
 
-camera points at cue ball
-w. rotates upward
-s. rotates downward
-a. rotates leftward
-d. rotates rightward
-i. moves nearer
-o. moves away
-k. increases cue impulse
-l. reduces cue impulse
+    camera points at cue ball
+    w. rotates upward
+    s. rotates downward
+    a. rotates leftward
+    d. rotates rightward
+    i. moves nearer
+    o. moves away
+    k. increases cue impulse
+    l. reduces cue impulse
 
-down.  + back spin
-up.    + forward spin
-left.  + left spin
-right. + right spin
+    down.  + back spin
+    up.    + forward spin
+    left.  + left spin
+    right. + right spin
 
-f. draws cue trajectory line
-g. plays shot
+    f. draws cue trajectory line
+    g. plays shot
 
-esc. quit game
+    esc. quit game
 
 Known issues
 ============
